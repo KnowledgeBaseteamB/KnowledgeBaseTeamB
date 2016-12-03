@@ -33,7 +33,7 @@ Git & GitHub
 
 Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development. Its current maintainer is Junio Hamano.
 
-`Git Hub <https://gist.github.com/octocat/9257657>`
+`Git Hub <https://gist.github.com/octocat/9257657>`_
 
 
 
@@ -80,7 +80,7 @@ SSH Key
 ---------------
 
 * Generating an `SSH key <https://help.github.com/articles/generating-an-ssh-key/>`_.
-* `Generating an SSH key <https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/>`
+* `Generating an SSH key <https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/>`_
 
 ============
 Continuous Integration
@@ -104,7 +104,7 @@ Jenkins
 `Jenkins <https://jenkins.io/>`_ is an open source automation server written in Java. `The project was forked from Hudson after a dispute with Oracle <https://en.wikipedia.org/wiki/Jenkins_%28software%29>`_.
 
 *  `YouTube <https://www.youtube.com/watch?v=lTQGi5jzjvo>`_ tutorial.
-*  `tutorial <https://vimeo.com/176318866>`
+*  `tutorial <https://vimeo.com/176318866>`_
 -------------------
 Bamboo
 -------------------
@@ -138,11 +138,11 @@ The Allure Framework is a flexible, lightweight multi-language test report tool,
 
 * `example <https://github.com/allure-examples/allure-testng-example>`_
 * `example <https://github.com/OljaSh/TestTaskAuto/blob/master/domain/src/test/java/eu/ipstore/testcases/RegisterNewUserTest.java>`_
-* `example <http://allure.qatools.ru/>`
+* `example <http://allure.qatools.ru/>`_
 * `Using Yandex Allure Framework <https://m.youtube.com/watch?v=LpU6875hYOM>`_
-* Allure `framework TestNG <https://github.com/allure-framework/allure-core/wiki/TestNG>`
-* Allure `framework Junit <https://github.com/allure-framework/allure-core/blob/master/allure-junit-adaptor/pom.xml>`
-* `That is Allure report <http://perfect-test.com/index.php/ru/technologies-menu-rus/other-technologies-menu-rus/20-not-categorised-technologies-rus>`
+* Allure `framework TestNG <https://github.com/allure-framework/allure-core/wiki/TestNG>`_
+* Allure `framework Junit <https://github.com/allure-framework/allure-core/blob/master/allure-junit-adaptor/pom.xml>`_
+* `That is Allure report <http://perfect-test.com/index.php/ru/technologies-menu-rus/other-technologies-menu-rus/20-not-categorised-technologies-rus>`_
 
 
 ------------------
@@ -177,7 +177,7 @@ SikuliX
 Stevia
 -------------------
 
-* `Stevia is an Open Source QA Automation Testing Framework by Persado <https://github.com/persado/stevia>`
+* `Stevia is an Open Source QA Automation Testing Framework by Persado <https://github.com/persado/stevia>`_
 
 
 ============
@@ -188,8 +188,8 @@ Other links ...
 Automation School 
 -------------------
 
-* `<https://youtu.be/0YQVIPCIlCA?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR>`
-* `Frameworks-shrameworks or how to ruin your test automation  <https://www.youtube.com/watch?v=yXS1mXxVE74&index=17&list=LLlu6Q9bW3XvK4W5tu7Agh-Q>`
+* `<https://youtu.be/0YQVIPCIlCA?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR>`_
+* `Frameworks-shrameworks or how to ruin your test automation  <https://www.youtube.com/watch?v=yXS1mXxVE74&index=17&list=LLlu6Q9bW3XvK4W5tu7Agh-Q>`_
 
 -------------------
 Awesome-java
@@ -211,22 +211,22 @@ Selenium
 
 * Elemental Selenium `Tips <https://github.com/tourdedave/elemental-selenium-tips>`_.
 * `Selenium Camp 2016 <https://github.com/sskorol/selenium-camp-samples>`_ - Effective UI tests scaling on Java.
-* `Selenium Camp 2015 <https://www.youtube.com/watch?v=ETZvtRoV3iw&list=PL4Xdj6CMk6HTD1Vm_yZOt37JBZCFwstG->`_The Transition from Product to Infrastructure (Paul Stack, UK).
-* `Selenium Camp 2015 <https://www.youtube.com/watch?v=bz2Td11-bwk&list=PL4Xdj6CMk6HRlUqnT7CyYxhRJABLiha18>`_From Unit Testing to End-To-End Test Automation (Oren Rubin, Israel).
-* `Selenium Camp 2014 <https://www.youtube.com/watch?v=BYr-HNus90I&list=PL4Xdj6CMk6HRXMORodq9QNK-UjSkkiypL>`_The fast and the continuous (Andrei Solntsev, Estonia).
-* `Selenium Camp 2014 <https://www.youtube.com/watch?v=NrfuKTGvsFE&list=PL4Xdj6CMk6HRRYZagcslgM9aa-t3HdpP3>`_Building a micro-services architecture with smart use cases (Sander Hoogendoorn, Netherlands).
-* `Selenium Camp 2013 <https://www.youtube.com/watch?v=Fo6du__WCUw&list=PL4Xdj6CMk6HQ10HFDMGrG56Z0hR7skhKp>_Using Selenium At Google Scale.
-* `Selenium Camp 2013 <https://www.youtube.com/watch?v=zTil2s7m67c&list=PL4Xdj6CMk6HQ56_dt75TyJ3sDnHhK3LJJ>`_DevOps Engineering in real time (Andriy Samilyak).
-* `Selenium Camp 2012 <https://www.youtube.com/watch?v=o1OYqwAI3VE&list=PL4Xdj6CMk6HR-0hpqwGgJ6hCKkoR8Ubnf>`_RegExp for test automation.
-* `Selenium Camp 2012 <https://www.youtube.com/watch?v=VW1rKzlc4bo&list=PL4Xdj6CMk6HQxy0IC_PuaZhIrOkp6JiVd>`_how to become and continue to be professional.
-* `Selenium Camp 2011 <https://www.youtube.com/watch?v=yPtzpn22zCA&list=PL4Xdj6CMk6HS5C611fFozP2DARMqjqj0F>_Continuous Performance Testing.
+* `Selenium Camp 2015 <https://www.youtube.com/watch?v=ETZvtRoV3iw&list=PL4Xdj6CMk6HTD1Vm_yZOt37JBZCFwstG->`_ The Transition from Product to Infrastructure (Paul Stack, UK).
+* `Selenium Camp 2015 <https://www.youtube.com/watch?v=bz2Td11-bwk&list=PL4Xdj6CMk6HRlUqnT7CyYxhRJABLiha18>`_ From Unit Testing to End-To-End Test Automation (Oren Rubin, Israel).
+* `Selenium Camp 2014 <https://www.youtube.com/watch?v=BYr-HNus90I&list=PL4Xdj6CMk6HRXMORodq9QNK-UjSkkiypL>`_ The fast and the continuous (Andrei Solntsev, Estonia).
+* `Selenium Camp 2014 <https://www.youtube.com/watch?v=NrfuKTGvsFE&list=PL4Xdj6CMk6HRRYZagcslgM9aa-t3HdpP3>`_ Building a micro-services architecture with smart use cases (Sander Hoogendoorn, Netherlands).
+* `Selenium Camp 2013 <https://www.youtube.com/watch?v=Fo6du__WCUw&list=PL4Xdj6CMk6HQ10HFDMGrG56Z0hR7skhKp>_ Using Selenium At Google Scale.
+* `Selenium Camp 2013 <https://www.youtube.com/watch?v=zTil2s7m67c&list=PL4Xdj6CMk6HQ56_dt75TyJ3sDnHhK3LJJ>`_ DevOps Engineering in real time (Andriy Samilyak).
+* `Selenium Camp 2012 <https://www.youtube.com/watch?v=o1OYqwAI3VE&list=PL4Xdj6CMk6HR-0hpqwGgJ6hCKkoR8Ubnf>`_ RegExp for test automation.
+* `Selenium Camp 2012 <https://www.youtube.com/watch?v=VW1rKzlc4bo&list=PL4Xdj6CMk6HQxy0IC_PuaZhIrOkp6JiVd>`_ how to become and continue to be professional.
+* `Selenium Camp 2011 <https://www.youtube.com/watch?v=yPtzpn22zCA&list=PL4Xdj6CMk6HS5C611fFozP2DARMqjqj0F>_ Continuous Performance Testing.
 * `Here <https://kreisfahrer.gitbooks.io/selenium-webdriver/content/index.html>`_ you can find a large number of primary information about the Selenium, including documentation, tips, current status of the project, links to the source code, libraries, drivers, and more.
-* `Selenium Webdriver locators <https://kreisfahrer.gitbooks.io/selenium-webdriver/content/webdriver_api_slozhnie_vzaimodeistviya/lokatori_css,_xpath,_jquery.html>`
-* `Examples of Selenium+Java+Pattern Page Object <http://automated-testing.info/t/podskazhite-primery-ispolzavanie-pattern-page-object/7795>`
-* `Page Object Model (POM) & Page Factory in Selenium <http://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html>`
-* `Class Actions <https://seleniumhq.github.io/selenium/docs/api/java/org/openqa/selenium/interactions/Actions.html>`
-* `Keyboard Mouse Events , Uploading Files - Webdriver <http://www.guru99.com/keyboard-mouse-events-files-webdriver.html>`
-* `Page Object Model + Webdriver <https://habrahabr.ru/post/155109/>`_example of implementation.
+* `Selenium Webdriver locators <https://kreisfahrer.gitbooks.io/selenium-webdriver/content/webdriver_api_slozhnie_vzaimodeistviya/lokatori_css,_xpath,_jquery.html>`_
+* `Examples of Selenium+Java+Pattern Page Object <http://automated-testing.info/t/podskazhite-primery-ispolzavanie-pattern-page-object/7795>`_
+* `Page Object Model (POM) & Page Factory in Selenium <http://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html>`_
+* `Class Actions <https://seleniumhq.github.io/selenium/docs/api/java/org/openqa/selenium/interactions/Actions.html>`_
+* `Keyboard Mouse Events , Uploading Files - Webdriver <http://www.guru99.com/keyboard-mouse-events-files-webdriver.html>`_
+* `Page Object Model + Webdriver <https://habrahabr.ru/post/155109/>`_ example of implementation.
 
 -------------------
 Firefox
@@ -234,28 +234,28 @@ Firefox
 
 * `Firefox versions <https://ftp.mozilla.org/pub/firefox/releases/>`_.
 *  `WebDriver Element Locator <https://addons.mozilla.org/en-US/firefox/addon/element-locator-for-webdriv/?src=api>`_. This Firefox addon is designed to support and speed up the creation of WebDriver scripts by easing the location of web elements.
-* `Firefox version 45.0.2 <https://ftp.mozilla.org/pub/firefox/releases/45.0.2/>`
+* `Firefox version 45.0.2 <https://ftp.mozilla.org/pub/firefox/releases/45.0.2/>`_
 
 ------------------------
 Free Oracle Study Guide
 ------------------------
 
-* `questions/answers <http://www.aiotestking.com/oracle/what-is-the-result-when-this-program-is-executed-5/>`_what-is-the-result-when-this-program-is-executed-5.
-* `questions/answers <http://www.aiotestking.com/oracle/which-statement-when-inserted-into-line-5-is-valid-change-2/>`_which-statement-when-inserted-into-line-5-is-valid-change-2.
-* `questions/answers <http://www.aiotestking.com/oracle/which-three-lines-will-compile-and-output-right-on-4/>`which-three-lines-will-compile-and-output-right-on-4.
+* `questions/answers <http://www.aiotestking.com/oracle/what-is-the-result-when-this-program-is-executed-5/>`_ what-is-the-result-when-this-program-is-executed-5.
+* `questions/answers <http://www.aiotestking.com/oracle/which-statement-when-inserted-into-line-5-is-valid-change-2/>`_ which-statement-when-inserted-into-line-5-is-valid-change-2.
+* `questions/answers <http://www.aiotestking.com/oracle/which-three-lines-will-compile-and-output-right-on-4/>`_ which-three-lines-will-compile-and-output-right-on-4.
 
 
 -----------------------
 E-Mail Services
 -----------------------
 
-* `<https://maildrop.cc/inbox/wsi>`
-* `<http://www.throwawaymail.com/>`
+* `<https://maildrop.cc/inbox/wsi>`_
+* `<http://www.throwawaymail.com/>`_
 
 ============
 JAVA
 ============
 
 * `Mkyong.com <https://www.mkyong.com/>`_ is for Java and J2EE developers, all examples are simple and easy to understand, and well tested in my development environment.
-* `Java fundamentals <https://www.youtube.com/playlist?list=PL0sBtgkuuZroTf3wPVDviHGEpwO9vTd8U>`
-* `Little know Java's features `<https://habrahabr.ru/post/133237/>`
+* `Java fundamentals <https://www.youtube.com/playlist?list=PL0sBtgkuuZroTf3wPVDviHGEpwO9vTd8U>`_
+* `Little know Java's features `<https://habrahabr.ru/post/133237/>`_
