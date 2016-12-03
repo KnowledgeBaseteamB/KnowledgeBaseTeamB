@@ -188,7 +188,7 @@ Other links ...
 Automation School 
 -------------------
 
-* `<https://youtu.be/0YQVIPCIlCA?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR>`_
+* `Example <https://youtu.be/0YQVIPCIlCA?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR>`_
 * `Frameworks-shrameworks or how to ruin your test automation  <https://www.youtube.com/watch?v=yXS1mXxVE74&index=17&list=LLlu6Q9bW3XvK4W5tu7Agh-Q>`_
 
 -------------------
@@ -215,11 +215,11 @@ Selenium
 * `Selenium Camp 2015 <https://www.youtube.com/watch?v=bz2Td11-bwk&list=PL4Xdj6CMk6HRlUqnT7CyYxhRJABLiha18>`_ From Unit Testing to End-To-End Test Automation (Oren Rubin, Israel).
 * `Selenium Camp 2014 <https://www.youtube.com/watch?v=BYr-HNus90I&list=PL4Xdj6CMk6HRXMORodq9QNK-UjSkkiypL>`_ The fast and the continuous (Andrei Solntsev, Estonia).
 * `Selenium Camp 2014 <https://www.youtube.com/watch?v=NrfuKTGvsFE&list=PL4Xdj6CMk6HRRYZagcslgM9aa-t3HdpP3>`_ Building a micro-services architecture with smart use cases (Sander Hoogendoorn, Netherlands).
-* `Selenium Camp 2013 <https://www.youtube.com/watch?v=Fo6du__WCUw&list=PL4Xdj6CMk6HQ10HFDMGrG56Z0hR7skhKp>_ Using Selenium At Google Scale.
+* `Selenium Camp 2013 <https://www.youtube.com/watch?v=Fo6du__WCUw&list=PL4Xdj6CMk6HQ10HFDMGrG56Z0hR7skhKp>`_ Using Selenium At Google Scale.
 * `Selenium Camp 2013 <https://www.youtube.com/watch?v=zTil2s7m67c&list=PL4Xdj6CMk6HQ56_dt75TyJ3sDnHhK3LJJ>`_ DevOps Engineering in real time (Andriy Samilyak).
 * `Selenium Camp 2012 <https://www.youtube.com/watch?v=o1OYqwAI3VE&list=PL4Xdj6CMk6HR-0hpqwGgJ6hCKkoR8Ubnf>`_ RegExp for test automation.
 * `Selenium Camp 2012 <https://www.youtube.com/watch?v=VW1rKzlc4bo&list=PL4Xdj6CMk6HQxy0IC_PuaZhIrOkp6JiVd>`_ how to become and continue to be professional.
-* `Selenium Camp 2011 <https://www.youtube.com/watch?v=yPtzpn22zCA&list=PL4Xdj6CMk6HS5C611fFozP2DARMqjqj0F>_ Continuous Performance Testing.
+* `Selenium Camp 2011 <https://www.youtube.com/watch?v=yPtzpn22zCA&list=PL4Xdj6CMk6HS5C611fFozP2DARMqjqj0F>`_ Continuous Performance Testing.
 * `Here <https://kreisfahrer.gitbooks.io/selenium-webdriver/content/index.html>`_ you can find a large number of primary information about the Selenium, including documentation, tips, current status of the project, links to the source code, libraries, drivers, and more.
 * `Selenium Webdriver locators <https://kreisfahrer.gitbooks.io/selenium-webdriver/content/webdriver_api_slozhnie_vzaimodeistviya/lokatori_css,_xpath,_jquery.html>`_
 * `Examples of Selenium+Java+Pattern Page Object <http://automated-testing.info/t/podskazhite-primery-ispolzavanie-pattern-page-object/7795>`_
@@ -258,4 +258,4 @@ JAVA
 
 * `Mkyong.com <https://www.mkyong.com/>`_ is for Java and J2EE developers, all examples are simple and easy to understand, and well tested in my development environment.
 * `Java fundamentals <https://www.youtube.com/playlist?list=PL0sBtgkuuZroTf3wPVDviHGEpwO9vTd8U>`_
-* `Little know Java's features `<https://habrahabr.ru/post/133237/>`_
+* `Little know Java's features <https://habrahabr.ru/post/133237/>`_
